@@ -16,6 +16,12 @@ git diff --> diğer versiyona göre farklılıkları verir (+versiyon2 şeklinde
 git add + git commit komut birleşimi --> git commit -am
 cls --> terminal ekran temizleme
 
+        //v5...
+
+        //v6...
+
+        //v7
+
 
 GIT KOMUTLARI
 ---------------
